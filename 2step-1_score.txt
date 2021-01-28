@@ -1,0 +1,2 @@
+Mean accuracy 1st step: 0.8497
+
